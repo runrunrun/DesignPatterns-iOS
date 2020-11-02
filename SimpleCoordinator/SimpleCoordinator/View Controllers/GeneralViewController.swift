@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  GeneralViewController.swift
 //  SimpleCoordinator
 //
 //  Created by Kunwar, Hari on 11/1/20.
@@ -8,13 +8,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+final class GeneralViewController: UIViewController, Storyboarded {
+  weak var coordinator: MainCoordinator?
 
   override func viewDidLoad() {
     super.viewDidLoad()
-    // Do any additional setup after loading the view.
   }
-
-
 }
-
