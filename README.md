@@ -3,4 +3,4 @@ Design patterns in iOS
 
 - Coordinator Pattern
 Simple coordinator example
-![demo](/ScreenShots/CoordinatorSimple.gif)
+![demo](/Screenshots/CoordinatorSimple.gif)
